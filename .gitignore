@@ -1,0 +1,18 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary or system files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore large data files
+*.zip
+*.tar.gz
+*.rar
+
+# Ignore any data files larger than 20MB by folder (if needed, adjust path)
+data/large_files/
