@@ -15,6 +15,16 @@ I used Python and Jupyter Notebook to follow a 12-step data processing pipeline.
 The goal was to clean, transform, and analyze real-world data and practice basic data engineering.
 
 ---
+- **Live Notebook Page:** [https://kittuai.github.io/Lab2---Data-Collection-and-Pre-processing/](https://kittuai.github.io/Lab2---Data-Collection-and-Pre-processing/)
+- **GitHub Repository:** [https://github.com/kittuai/Lab2---Data-Collection-and-Pre-processing](https://github.com/kittuai/Lab2---Data-Collection-and-Pre-processing)  
+  Use this URL to clone the project:
+  ```bash
+  git clone https://github.com/kittuai/Lab2---Data-Collection-and-Pre-processing.git
+
+
+---
+
+
 
 ## 🚀 How to Run This Project
 
